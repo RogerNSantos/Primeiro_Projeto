@@ -4,4 +4,4 @@ Tributo a banda The Offspring
 Site desenvolvido com Html e Css Simples
 
 
-[text](<../../../../Downloads/Tributo_ Offspring.html>)
+![alt text](img/offspring_1.jpg)
